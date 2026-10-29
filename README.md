@@ -11,6 +11,12 @@ TestLab is a classroom sandbox built with **React 19, Vite, Node.js, and Express
 
 For a production build, run `npm run build` then `npm start`, and open <http://localhost:4173>. Demo data is in memory and resets when the Node server restarts. Uploaded files are not transmitted or stored.
 
+## Manual testing course
+
+The **Manual Software Testing — Beginner to Advanced Masterclass** is available from the app sidebar. It includes a 12-module, approximately 39-hour syllabus, learning outcomes, project deliverables, assessment plan, and a self-generated completion certificate notice. Learners can start with Chapter 1; additional lessons are syllabus previews for progressive release.
+
+Course progress is saved in the learner's browser using local storage. It is device- and browser-specific and is not synced to an instructor account. The certificate is a self-generated record of course completion, not an accredited qualification.
+
 ## What students can test
 
 - Responsive React dashboard, navigation, loading, empty, success, and error states
