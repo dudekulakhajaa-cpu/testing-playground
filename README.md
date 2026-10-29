@@ -13,9 +13,11 @@ For a production build, run `npm run build` then `npm start`, and open <http://l
 
 ## Manual testing course
 
-The **Manual Software Testing — Beginner to Advanced Masterclass** is available from the app sidebar. It includes a 12-module, approximately 39-hour syllabus, learning outcomes, project deliverables, assessment plan, and a self-generated completion certificate notice. Learners can start with Chapter 1; additional lessons are syllabus previews for progressive release.
+The **Course 1: Manual Software Testing — Beginner to Advanced Masterclass** is available from the app sidebar. The catalogue presents a 20-module, approximately 68-hour syllabus, learning outcomes, chapter estimates, three capstone briefs, a 15-lab roadmap, assessment structure, and certificate notice. Chapter 1, Lesson 1 is the only full lesson released so learners can progress one chapter at a time.
 
-Course progress is saved in the learner's browser using local storage. It is device- and browser-specific and is not synced to an instructor account. The certificate is a self-generated record of course completion, not an accredited qualification.
+Chapter 1 has a retakable quiz with an 80% mastery threshold, option-by-option explanations, incorrect-topic tracking, a guided simulated-store practice lab, and a self-review rubric. The lesson is not marked complete until the quiz threshold and practice activity are both recorded. Course progress and assignment drafts are saved in the learner's browser using local storage; this is device- and browser-specific and does not sync to an instructor account. The progress report can be exported as JSON.
+
+The three capstone briefs are e-commerce, banking/wallet, and mobile. The course certificate is a self-generated record of completion, not an accredited qualification. Later lessons, labs, module exams, final exam, and interview simulation are planned for progressive release rather than presented as finished content.
 
 ## What students can test
 
