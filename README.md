@@ -7,7 +7,7 @@ TestLab is a classroom sandbox built with **React 19, Vite, Node.js, and Express
 1. Install Node.js 20 or later.
 2. In this folder, run `npm install`.
 3. Run `npm run dev`.
-4. Open <http://localhost:5173> (Vite) or <http://localhost:4174/api/health> (API health check).
+4. Open <http://localhost:5173> (Vite) or <http://localhost:4173/api/health> (API health check).
 
 For a production build, run `npm run build` then `npm start`, and open <http://localhost:4173>. Demo data is in memory and resets when the Node server restarts. Uploaded files are not transmitted or stored.
 
